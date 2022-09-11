@@ -21,8 +21,8 @@
     "react-dom": "18.2.0",
     "reactstrap": "^9.1.4"
   },
-  "devDependencies": {
-    "eslint": "8.23.0",
-    "eslint-config-next": "12.2.5"
-  }
+  "description": "",
+  "main": "index.js",
+  "author": "sophie",
+  "license": "MIT"
 }
